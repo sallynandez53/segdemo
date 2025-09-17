@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+}
+
+.ejercicio {
+    border-style: dashed;
+    border-color: brown;
+}
+
+.favorita {
+    border-style: dashed;
+    border-color: brown;
+}
+
+.webtoon {
+    border-style: dashed;
+    border-color: brown;
+}
+
+.freddy {
+    border-style: dashed;
+    border-color: brown;
+}
